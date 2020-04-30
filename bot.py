@@ -34,5 +34,5 @@ if __name__ == "__main__" :
         api_hash=Config.API_HASH,
         plugins=plugins
     )
-    Config.LOGON_USERS.add(1170774899)
+  
     app.run()
